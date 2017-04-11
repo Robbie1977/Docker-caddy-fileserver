@@ -1,7 +1,5 @@
-data.virtualflybrain.org
-
+https://data.virtualflybrain.org, https://data.virtualflybrain.org, 0.0.0.0
 browse
-
+root /srv/
 log stdout
-
 errors stdout
