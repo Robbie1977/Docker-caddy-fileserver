@@ -1,4 +1,5 @@
 https://data.virtualflybrain.org, https://data.virtualflybrain.org, 0.0.0.0
+tls virtualflybrain@gmail.com
 browse
 root /srv/
 log stdout
